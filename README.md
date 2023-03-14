@@ -1,0 +1,2 @@
+# QrScanner
+This Android app, built using Kotlin, allows users to scan QR codes with ease. In addition to scanning regular QR codes, it can also decode JWT QR codes, making it a versatile tool for anyone who needs to work with these types of codes. The app provides a user-friendly interface that allows users to easily scan and decode codes, and it includes features such as error correction and automatic decoding. With this app, users can quickly and easily access the information contained in QR codes, making it a valuable tool for a variety of applications
