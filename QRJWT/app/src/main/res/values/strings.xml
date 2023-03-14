@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QR-JWT</string>
+    <string name="qr">QR</string>
+    <string name="tab_below_to_scan">Tab below to scan</string>
+</resources>
